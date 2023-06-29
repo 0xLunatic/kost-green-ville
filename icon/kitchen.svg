@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_332" data-name="Rectangle 332" width="24" height="24" transform="translate(32 368)" fill="#ff09ef"/>
+    </clipPath>
+  </defs>
+  <g id="ico-restaurant" transform="translate(-32 -368)" clip-path="url(#clip-path)">
+    <g id="Group_773" data-name="Group 773" transform="translate(18.814 335.477)">
+      <path id="Path_513" data-name="Path 513" d="M117.465,50.878a.852.852,0,0,1-1.7,0V46.63a.85.85,0,0,1-.852-.85c0-3.757,1.143-6.8,2.555-6.8Z" transform="translate(-88.268 -1.015)" fill="none" stroke="#1d1d1b" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <path id="Path_514" data-name="Path 514" d="M64.293,38.984v4.258a.851.851,0,0,0,.852.852h1.7a.851.851,0,0,0,.852-.852V38.984" transform="translate(-42.753 -1.022)" fill="none" stroke="#1d1d1b" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <path id="Path_515" data-name="Path 515" d="M74.432,89.6v6.813a.852.852,0,0,1-1.7,0V89.6" transform="translate(-50.337 -46.544)" fill="none" stroke="#1d1d1b" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <line id="Line_360" data-name="Line 360" y2="5.11" transform="translate(23.243 37.962)" fill="none" stroke="#1d1d1b" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <circle id="Ellipse_20" data-name="Ellipse 20" cx="10" cy="10" r="10" transform="translate(15.186 34.523)" fill="none" stroke="#1d1d1b" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,125 @@
+/* Global Styles */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f2f2f2;
+  padding: 20px;
+  background-image: url(https://images.unsplash.com/photo-1603277578692-c699f37c67d3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+h1 {
+  color: #333;
+  text-align: center;
+}
+
+.booking-form label {
+  display: block;
+  margin-bottom: 5px;
+  font-weight: bold;
+}
+
+.booking-form input[type="text"],
+.booking-form select {
+  width: 100%;
+  padding: 10px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  box-sizing: border-box; /* Add this line */
+}
+
+.booking-form input[type="submit"] {
+  background-color: #333;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.booking-form input[type="submit"]:hover {
+  background-color: #555;
+}
+
+/* Form Styles */
+.booking-form {
+  max-width: 400px;
+  margin: 0 auto;
+  background-color: rgba(255, 255, 255, 0.5);
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+.booking-form h1 {
+  color: #555;
+  margin-bottom: 20px;
+}
+
+.booking-form label {
+  color: #333;
+}
+
+.booking-form span {
+  color: red;
+}
+
+.booking-form input[type="text"],
+.booking-form select {
+  margin-bottom: 10px;
+  background-color: rgba(255, 255, 255, 0.5);
+}
+
+.booking-form ul {
+  margin-top: 10px;
+  padding-left: 20px;
+}
+
+/* Responsive Styles */
+@media (max-width: 480px) {
+  .booking-form {
+    max-width: 100%;
+    padding: 10px;
+  }
+}
+.my-warning-box {
+  position: fixed;
+  top: 20px;
+  right: 20px;
+  width: 300px;
+  padding: 20px;
+  background-color: #f44336;
+  color: #fff;
+  border-radius: 5px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+  animation: fade-out 3s;
+}
+
+.my-warning-box h2 {
+  margin-bottom: 10px;
+}
+
+.my-warning-box p {
+  margin-bottom: 20px;
+}
+
+.my-close-icon {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  font-size: 24px;
+  cursor: pointer;
+  color: #fff;
+}
+
+.my-close-icon:hover {
+  color: #ccc;
+}
+@keyframes fade-out {
+  from {
+    opacity: 1;
+  }
+  to {
+    opacity: 0;
+  }
+}

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_348" data-name="Rectangle 348" width="24" height="24" transform="translate(224 368)" fill="#ff09ef"/>
+    </clipPath>
+  </defs>
+  <g id="ico-wifi-area" transform="translate(-224 -368)" clip-path="url(#clip-path)">
+    <g id="Group_796" data-name="Group 796" transform="translate(176 337)">
+      <g id="Group_793" data-name="Group 793" transform="translate(52.987 38.536)">
+        <path id="Path_548" data-name="Path 548" d="M.5,3.964A9.19,9.19,0,0,1,7.528.5a9.19,9.19,0,0,1,7.028,3.464" transform="translate(-0.5 -0.5)" fill="none" stroke="#1d1d1b" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+        <path id="Path_549" data-name="Path 549" d="M54.611,64.935a6.547,6.547,0,0,0-10.386,0" transform="translate(-42.39 -59.294)" fill="none" stroke="#1d1d1b" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+        <path id="Path_550" data-name="Path 550" d="M94.684,125.905a4.253,4.253,0,0,0-6.734,0" transform="translate(-84.289 -118.087)" fill="none" stroke="#1d1d1b" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+      </g>
+      <g id="Rectangle_347" data-name="Rectangle 347" transform="translate(50 33)" fill="none" stroke="#1d1d1b" stroke-width="1">
+        <rect width="20" height="20" rx="3" stroke="none"/>
+        <rect x="0.5" y="0.5" width="19" height="19" rx="2.5" fill="none"/>
+      </g>
+    </g>
+  </g>
+</svg>
